@@ -35,7 +35,7 @@ Deselvolvo pequenos projetos em **Java** para ampliar o aprendizado.
 ![Java](https://img.shields.io/badge/Java-F24E1E?style=for-the-badge&logo=Java)
 ---
 
-## 🚀 Philosophy
+## 🚀 Filosofia
 
 > _"Programar não se trata apenas de resolver problemas.  
 > Trata-se de construir soluções que escalam, perduram e geram valor real."_
