@@ -1,7 +1,7 @@
 # Olá 👋, Eu sou Tamyris Morais
 
 🚀 **Iniciante em Dev de Sistemas | Java**  
-🇧🇷 Brazil
+🇧🇷 Brasil
 
 Deselvolvo pequenos projetos em **Java** para ampliar o aprendizado.  
 
