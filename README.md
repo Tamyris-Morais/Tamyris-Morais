@@ -19,11 +19,9 @@ Tenho como foco o desenvolvimento de aplicações utilizando **Java**, buscando 
   </a>
 
   <a href="mailto:seuemail@exemplo.com">
-    <img src="https://img.shields.io/badge/E--mail-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/E--mail-tamyris1souzaa@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
-> **Substitua** `seuemail@exemplo.com` pelo seu e-mail.
 
 ---
 
