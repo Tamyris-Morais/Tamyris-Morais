@@ -16,7 +16,7 @@ Deselvolvo pequenos projetos em **Java** para ampliar o aprendizado.
   <a href="https://github.com/tamyris-morais">
     <img src="https://img.shields.io/badge/Linkedin-Tamyris Morais
 -181717?style=for-the-badge&logo" />
-
+  </a>
 </p>
 
 ---
